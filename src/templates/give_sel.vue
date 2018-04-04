@@ -29,7 +29,6 @@
 	export default{
 		name:'gift_sel',
 		created(){
-			
 		},
 		mounted(){
 			/*Max 屏幕的高度 赋值给 give-bg 最大容器*/
