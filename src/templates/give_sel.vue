@@ -106,7 +106,6 @@
 		left: 0.3rem;
 		right:0.3rem;
 		bottom: 0;
-		/*background: url(../assets/img/My-things_img_shujia-.png) no-repeat;*/
 		background-size: contain;z-index: 22;
 	}
 	.give-sel-list{
