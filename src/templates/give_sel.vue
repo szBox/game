@@ -90,9 +90,6 @@
 </script>
 
 <style>
-	html{
-		/*font-size: 20px;*/
-	}
 	.give-box{
 		position: fixed;
 		top:0;
